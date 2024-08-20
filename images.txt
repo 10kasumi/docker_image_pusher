@@ -1,5 +1,5 @@
 nginx
 #支持私库
-graylog/graylog:3.1
+graylog/graylog:4.3.8
 apache/skywalking-oap-server:9.1.0
 apache/skywalking-ui:9.1.0
